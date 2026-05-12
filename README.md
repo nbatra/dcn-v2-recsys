@@ -6,8 +6,6 @@
 [![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-4285F4)](https://github.com/facebookresearch/faiss)
 [![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
 
-**Keywords:** `DCN-v2` `Deep & Cross Network` `Feature Interactions` `Neural Ranking` `Recommendation System` `Two-Tower` `ComiRec` `SASRec` `FAISS` `XGBoost LambdaMART` `Learning to Rank` `Benjamini-Hochberg` `FDR Correction` `Bootstrap CI` `Cohen's d` `A/B Testing` `Sequential Testing` `MovieLens` `Production ML` `RecSys`
-
 > This project extends the [two-tower-recsys](https://github.com/nbatra/two-tower-recsys) baseline by replacing the XGBoost LambdaMART re-ranker with DCN-v2 (Deep & Cross Network v2) and adding rigorous statistical evaluation. Retrieval models (Two-Tower, ComiRec, SASRec) and FAISS indexing are unchanged.
 
 ## What This Project Does
@@ -180,3 +178,10 @@ Built by **Nipun Batra**
 ## License
 
 This project is released for educational and portfolio purposes. The MovieLens 25M dataset is provided by [GroupLens Research](https://grouplens.org/) under their own terms of use.
+
+<details>
+<summary>Keywords</summary>
+
+DCN-v2, Deep & Cross Network, Cross Network, Polynomial Feature Interactions, Higher-Order Features, Neural Ranking, Recommendation System, Two-Tower, ComiRec, SASRec, FAISS, Approximate Nearest Neighbor, XGBoost LambdaMART, Learning to Rank, Benjamini-Hochberg, FDR Correction, Bootstrap Confidence Intervals, Cohen's d, A/B Testing, Sequential Testing, MovieLens 25M, Production ML, RecSys, Re-Ranking, Deep Network, Stacked Architecture, PyTorch, NDCG, Google Research
+
+</details>
